@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &141866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 441866}
+  - 114: {fileID: 11441864}
+  - 114: {fileID: 11441866}
+  m_Layer: 0
+  m_Name: Froglegs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &441866
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141866}
+  m_LocalRotation: {x: 0, y: .923879564, z: 0, w: -.382683396}
+  m_LocalPosition: {x: 1260, y: 1.58800006, z: 1340}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11441864
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89cefcc2834640d49920b688cffb45a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name_: 
+  bio_: 
+  orig_damage_: 10
+  orig_weight_: 10
+  orig_speed_: 1
+  health_: 0
+  damage_: 0
+  weight_: 0
+  stamina_: 0
+  speed_: 0
+  sheild_duration_: .5
+  sheild_cd_: .5
+  attack_range_: 0
+  special_radius_: 1
+  special_charge_time_: 1
+--- !u!114 &11441866
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89cefcc2834640d49920b688cffb45a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name_: 
+  bio_: 
+  orig_damage_: 0
+  orig_weight_: 0
+  orig_speed_: 0
+  health_: 0
+  damage_: 0
+  weight_: 0
+  stamina_: 0
+  speed_: 0
+  sheild_duration_: .5
+  sheild_cd_: .5
+  attack_range_: 0
+  special_radius_: 1
+  special_charge_time_: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 141866}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

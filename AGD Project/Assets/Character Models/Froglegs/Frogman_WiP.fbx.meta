@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 2cbfc8b27f1961e40b5d0a5066e42f1b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: _UNKNOWN_REF_NODE_fosterParent1
+    100002: Box002
+    100004: CH_Frogman_Head
+    100006: CH_Frogman_Hips
+    100008: CH_Frogman_LeftArm
+    100010: CH_Frogman_LeftFoot
+    100012: CH_Frogman_LeftFootMiddle1
+    100014: CH_Frogman_LeftFootMiddle2
+    100016: CH_Frogman_LeftFootMiddle3
+    100018: CH_Frogman_LeftForeArm
+    100020: CH_Frogman_LeftHand
+    100022: CH_Frogman_LeftLeg
+    100024: CH_Frogman_LeftShoulder
+    100026: CH_Frogman_LeftToeBase
+    100028: CH_Frogman_LeftUpLeg
+    100030: CH_Frogman_Neck
+    100032: CH_Frogman_Reference
+    100034: CH_Frogman_RightArm
+    100036: CH_Frogman_RightFoot
+    100038: CH_Frogman_RightFootMiddle1
+    100040: CH_Frogman_RightFootMiddle2
+    100042: CH_Frogman_RightFootMiddle3
+    100044: CH_Frogman_RightForeArm
+    100046: CH_Frogman_RightHand
+    100048: CH_Frogman_RightLeg
+    100050: CH_Frogman_RightShoulder
+    100052: CH_Frogman_RightToeBase
+    100054: CH_Frogman_RightUpLeg
+    100056: CH_Frogman_Spine
+    100058: CH_Frogman_Spine1
+    100060: CH_Frogman_Spine2
+    100062: //RootNode
+    400000: _UNKNOWN_REF_NODE_fosterParent1
+    400002: Box002
+    400004: CH_Frogman_Head
+    400006: CH_Frogman_Hips
+    400008: CH_Frogman_LeftArm
+    400010: CH_Frogman_LeftFoot
+    400012: CH_Frogman_LeftFootMiddle1
+    400014: CH_Frogman_LeftFootMiddle2
+    400016: CH_Frogman_LeftFootMiddle3
+    400018: CH_Frogman_LeftForeArm
+    400020: CH_Frogman_LeftHand
+    400022: CH_Frogman_LeftLeg
+    400024: CH_Frogman_LeftShoulder
+    400026: CH_Frogman_LeftToeBase
+    400028: CH_Frogman_LeftUpLeg
+    400030: CH_Frogman_Neck
+    400032: CH_Frogman_Reference
+    400034: CH_Frogman_RightArm
+    400036: CH_Frogman_RightFoot
+    400038: CH_Frogman_RightFootMiddle1
+    400040: CH_Frogman_RightFootMiddle2
+    400042: CH_Frogman_RightFootMiddle3
+    400044: CH_Frogman_RightForeArm
+    400046: CH_Frogman_RightHand
+    400048: CH_Frogman_RightLeg
+    400050: CH_Frogman_RightShoulder
+    400052: CH_Frogman_RightToeBase
+    400054: CH_Frogman_RightUpLeg
+    400056: CH_Frogman_Spine
+    400058: CH_Frogman_Spine1
+    400060: CH_Frogman_Spine2
+    400062: //RootNode
+    4300000: Box002
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Box002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 45
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/Box002
+        weight: 1
+      - path: CH_Frogman_Reference
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_LeftUpLeg
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_LeftUpLeg/CH_Frogman_LeftLeg
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_LeftUpLeg/CH_Frogman_LeftLeg/CH_Frogman_LeftFoot
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_LeftUpLeg/CH_Frogman_LeftLeg/CH_Frogman_LeftFoot/CH_Frogman_LeftToeBase
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_LeftUpLeg/CH_Frogman_LeftLeg/CH_Frogman_LeftFoot/CH_Frogman_LeftToeBase/CH_Frogman_LeftFootMiddle1
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_LeftUpLeg/CH_Frogman_LeftLeg/CH_Frogman_LeftFoot/CH_Frogman_LeftToeBase/CH_Frogman_LeftFootMiddle1/CH_Frogman_LeftFootMiddle2
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_LeftUpLeg/CH_Frogman_LeftLeg/CH_Frogman_LeftFoot/CH_Frogman_LeftToeBase/CH_Frogman_LeftFootMiddle1/CH_Frogman_LeftFootMiddle2/CH_Frogman_LeftFootMiddle3
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_RightUpLeg
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_RightUpLeg/CH_Frogman_RightLeg
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_RightUpLeg/CH_Frogman_RightLeg/CH_Frogman_RightFoot
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_RightUpLeg/CH_Frogman_RightLeg/CH_Frogman_RightFoot/CH_Frogman_RightToeBase
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_RightUpLeg/CH_Frogman_RightLeg/CH_Frogman_RightFoot/CH_Frogman_RightToeBase/CH_Frogman_RightFootMiddle1
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_RightUpLeg/CH_Frogman_RightLeg/CH_Frogman_RightFoot/CH_Frogman_RightToeBase/CH_Frogman_RightFootMiddle1/CH_Frogman_RightFootMiddle2
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_RightUpLeg/CH_Frogman_RightLeg/CH_Frogman_RightFoot/CH_Frogman_RightToeBase/CH_Frogman_RightFootMiddle1/CH_Frogman_RightFootMiddle2/CH_Frogman_RightFootMiddle3
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1/CH_Frogman_Spine2
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1/CH_Frogman_Spine2/CH_Frogman_LeftShoulder
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1/CH_Frogman_Spine2/CH_Frogman_LeftShoulder/CH_Frogman_LeftArm
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1/CH_Frogman_Spine2/CH_Frogman_LeftShoulder/CH_Frogman_LeftArm/CH_Frogman_LeftForeArm
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1/CH_Frogman_Spine2/CH_Frogman_LeftShoulder/CH_Frogman_LeftArm/CH_Frogman_LeftForeArm/CH_Frogman_LeftHand
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1/CH_Frogman_Spine2/CH_Frogman_Neck
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1/CH_Frogman_Spine2/CH_Frogman_Neck/CH_Frogman_Head
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1/CH_Frogman_Spine2/CH_Frogman_RightShoulder
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1/CH_Frogman_Spine2/CH_Frogman_RightShoulder/CH_Frogman_RightArm
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1/CH_Frogman_Spine2/CH_Frogman_RightShoulder/CH_Frogman_RightArm/CH_Frogman_RightForeArm
+        weight: 1
+      - path: CH_Frogman_Reference/CH_Frogman_Hips/CH_Frogman_Spine/CH_Frogman_Spine1/CH_Frogman_Spine2/CH_Frogman_RightShoulder/CH_Frogman_RightArm/CH_Frogman_RightForeArm/CH_Frogman_RightHand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 20ed32d7a07e27b4c93ac53353f0b3fd
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Ch_Froglegs_Ctrl_ChestEndEffector
+    100002: Ch_Froglegs_Ctrl_ChestOriginEffector
+    100004: Ch_Froglegs_Ctrl_Head
+    100006: Ch_Froglegs_Ctrl_HeadEffector
+    100008: Ch_Froglegs_Ctrl_Hips
+    100010: Ch_Froglegs_Ctrl_HipsEffector
+    100012: Ch_Froglegs_Ctrl_LeftAnkleEffector
+    100014: Ch_Froglegs_Ctrl_LeftArm
+    100016: Ch_Froglegs_Ctrl_LeftElbowEffector
+    100018: Ch_Froglegs_Ctrl_LeftFoot
+    100020: Ch_Froglegs_Ctrl_LeftFootEffector
+    100022: Ch_Froglegs_Ctrl_LeftFootMiddle1
+    100024: Ch_Froglegs_Ctrl_LeftFootMiddle2
+    100026: Ch_Froglegs_Ctrl_LeftFootMiddle3
+    100028: Ch_Froglegs_Ctrl_LeftFootMiddleEffector
+    100030: Ch_Froglegs_Ctrl_LeftForeArm
+    100032: Ch_Froglegs_Ctrl_LeftHand
+    100034: Ch_Froglegs_Ctrl_LeftHandIndex1
+    100036: Ch_Froglegs_Ctrl_LeftHandIndex2
+    100038: Ch_Froglegs_Ctrl_LeftHandIndex3
+    100040: Ch_Froglegs_Ctrl_LeftHandIndex4
+    100042: Ch_Froglegs_Ctrl_LeftHandIndexEffector
+    100044: Ch_Froglegs_Ctrl_LeftHandPinky1
+    100046: Ch_Froglegs_Ctrl_LeftHandPinky2
+    100048: Ch_Froglegs_Ctrl_LeftHandPinky3
+    100050: Ch_Froglegs_Ctrl_LeftHandPinky4
+    100052: Ch_Froglegs_Ctrl_LeftHandPinkyEffector
+    100054: Ch_Froglegs_Ctrl_LeftHandThumb1
+    100056: Ch_Froglegs_Ctrl_LeftHandThumb2
+    100058: Ch_Froglegs_Ctrl_LeftHandThumb3
+    100060: Ch_Froglegs_Ctrl_LeftHandThumb4
+    100062: Ch_Froglegs_Ctrl_LeftHandThumbEffector
+    100064: Ch_Froglegs_Ctrl_LeftHipEffector
+    100066: Ch_Froglegs_Ctrl_LeftKneeEffector
+    100068: Ch_Froglegs_Ctrl_LeftLeg
+    100070: Ch_Froglegs_Ctrl_LeftShoulder
+    100072: Ch_Froglegs_Ctrl_LeftShoulderEffector
+    100074: Ch_Froglegs_Ctrl_LeftToeBase
+    100076: Ch_Froglegs_Ctrl_LeftUpLeg
+    100078: Ch_Froglegs_Ctrl_LeftWristEffector
+    100080: Ch_Froglegs_Ctrl_Neck
+    100082: Ch_Froglegs_Ctrl_Reference
+    100084: Ch_Froglegs_Ctrl_RightAnkleEffector
+    100086: Ch_Froglegs_Ctrl_RightArm
+    100088: Ch_Froglegs_Ctrl_RightElbowEffector
+    100090: Ch_Froglegs_Ctrl_RightFoot
+    100092: Ch_Froglegs_Ctrl_RightFootEffector
+    100094: Ch_Froglegs_Ctrl_RightFootMiddle1
+    100096: Ch_Froglegs_Ctrl_RightFootMiddle2
+    100098: Ch_Froglegs_Ctrl_RightFootMiddle3
+    100100: Ch_Froglegs_Ctrl_RightFootMiddleEffector
+    100102: Ch_Froglegs_Ctrl_RightForeArm
+    100104: Ch_Froglegs_Ctrl_RightHand
+    100106: Ch_Froglegs_Ctrl_RightHandIndex1
+    100108: Ch_Froglegs_Ctrl_RightHandIndex2
+    100110: Ch_Froglegs_Ctrl_RightHandIndex3
+    100112: Ch_Froglegs_Ctrl_RightHandIndex4
+    100114: Ch_Froglegs_Ctrl_RightHandIndexEffector
+    100116: Ch_Froglegs_Ctrl_RightHandPinky1
+    100118: Ch_Froglegs_Ctrl_RightHandPinky2
+    100120: Ch_Froglegs_Ctrl_RightHandPinky3
+    100122: Ch_Froglegs_Ctrl_RightHandPinky4
+    100124: Ch_Froglegs_Ctrl_RightHandPinkyEffector
+    100126: Ch_Froglegs_Ctrl_RightHandThumb1
+    100128: Ch_Froglegs_Ctrl_RightHandThumb2
+    100130: Ch_Froglegs_Ctrl_RightHandThumb3
+    100132: Ch_Froglegs_Ctrl_RightHandThumb4
+    100134: Ch_Froglegs_Ctrl_RightHandThumbEffector
+    100136: Ch_Froglegs_Ctrl_RightHipEffector
+    100138: Ch_Froglegs_Ctrl_RightKneeEffector
+    100140: Ch_Froglegs_Ctrl_RightLeg
+    100142: Ch_Froglegs_Ctrl_RightShoulder
+    100144: Ch_Froglegs_Ctrl_RightShoulderEffector
+    100146: Ch_Froglegs_Ctrl_RightToeBase
+    100148: Ch_Froglegs_Ctrl_RightUpLeg
+    100150: Ch_Froglegs_Ctrl_RightWristEffector
+    100152: Ch_Froglegs_Ctrl_Spine
+    100154: Ch_Froglegs_Ctrl_Spine1
+    100156: Ch_Froglegs_Ctrl_Spine2
+    100158: Ch_Froglegs_Head
+    100160: Ch_Froglegs_Hips
+    100162: Ch_Froglegs_LeftArm
+    100164: Ch_Froglegs_LeftFoot
+    100166: Ch_Froglegs_LeftFootMiddle1
+    100168: Ch_Froglegs_LeftFootMiddle2
+    100170: Ch_Froglegs_LeftFootMiddle3
+    100172: Ch_Froglegs_LeftForeArm
+    100174: Ch_Froglegs_LeftHand
+    100176: Ch_Froglegs_LeftHandIndex1
+    100178: Ch_Froglegs_LeftHandIndex2
+    100180: Ch_Froglegs_LeftHandIndex3
+    100182: Ch_Froglegs_LeftHandIndex4
+    100184: Ch_Froglegs_LeftHandPinky1
+    100186: Ch_Froglegs_LeftHandPinky2
+    100188: Ch_Froglegs_LeftHandPinky3
+    100190: Ch_Froglegs_LeftHandPinky4
+    100192: Ch_Froglegs_LeftHandThumb1
+    100194: Ch_Froglegs_LeftHandThumb2
+    100196: Ch_Froglegs_LeftHandThumb3
+    100198: Ch_Froglegs_LeftHandThumb4
+    100200: Ch_Froglegs_LeftLeg
+    100202: Ch_Froglegs_LeftShoulder
+    100204: Ch_Froglegs_LeftToeBase
+    100206: Ch_Froglegs_LeftUpLeg
+    100208: Ch_Froglegs_Neck
+    100210: Ch_Froglegs_Reference
+    100212: Ch_Froglegs_RightArm
+    100214: Ch_Froglegs_RightFoot
+    100216: Ch_Froglegs_RightFootMiddle1
+    100218: Ch_Froglegs_RightFootMiddle2
+    100220: Ch_Froglegs_RightFootMiddle3
+    100222: Ch_Froglegs_RightForeArm
+    100224: Ch_Froglegs_RightHand
+    100226: Ch_Froglegs_RightHandIndex1
+    100228: Ch_Froglegs_RightHandIndex2
+    100230: Ch_Froglegs_RightHandIndex3
+    100232: Ch_Froglegs_RightHandIndex4
+    100234: Ch_Froglegs_RightHandPinky1
+    100236: Ch_Froglegs_RightHandPinky2
+    100238: Ch_Froglegs_RightHandPinky3
+    100240: Ch_Froglegs_RightHandPinky4
+    100242: Ch_Froglegs_RightHandThumb1
+    100244: Ch_Froglegs_RightHandThumb2
+    100246: Ch_Froglegs_RightHandThumb3
+    100248: Ch_Froglegs_RightHandThumb4
+    100250: Ch_Froglegs_RightLeg
+    100252: Ch_Froglegs_RightShoulder
+    100254: Ch_Froglegs_RightToeBase
+    100256: Ch_Froglegs_RightUpLeg
+    100258: Ch_Froglegs_Spine
+    100260: Ch_Froglegs_Spine1
+    100262: Ch_Froglegs_Spine2
+    100264: //RootNode
+    100266: Line001
+    100268: Object011
+    100270: Object012
+    100272: transform1
+    100274: transform2
+    400000: Ch_Froglegs_Ctrl_ChestEndEffector
+    400002: Ch_Froglegs_Ctrl_ChestOriginEffector
+    400004: Ch_Froglegs_Ctrl_Head
+    400006: Ch_Froglegs_Ctrl_HeadEffector
+    400008: Ch_Froglegs_Ctrl_Hips
+    400010: Ch_Froglegs_Ctrl_HipsEffector
+    400012: Ch_Froglegs_Ctrl_LeftAnkleEffector
+    400014: Ch_Froglegs_Ctrl_LeftArm
+    400016: Ch_Froglegs_Ctrl_LeftElbowEffector
+    400018: Ch_Froglegs_Ctrl_LeftFoot
+    400020: Ch_Froglegs_Ctrl_LeftFootEffector
+    400022: Ch_Froglegs_Ctrl_LeftFootMiddle1
+    400024: Ch_Froglegs_Ctrl_LeftFootMiddle2
+    400026: Ch_Froglegs_Ctrl_LeftFootMiddle3
+    400028: Ch_Froglegs_Ctrl_LeftFootMiddleEffector
+    400030: Ch_Froglegs_Ctrl_LeftForeArm
+    400032: Ch_Froglegs_Ctrl_LeftHand
+    400034: Ch_Froglegs_Ctrl_LeftHandIndex1
+    400036: Ch_Froglegs_Ctrl_LeftHandIndex2
+    400038: Ch_Froglegs_Ctrl_LeftHandIndex3
+    400040: Ch_Froglegs_Ctrl_LeftHandIndex4
+    400042: Ch_Froglegs_Ctrl_LeftHandIndexEffector
+    400044: Ch_Froglegs_Ctrl_LeftHandPinky1
+    400046: Ch_Froglegs_Ctrl_LeftHandPinky2
+    400048: Ch_Froglegs_Ctrl_LeftHandPinky3
+    400050: Ch_Froglegs_Ctrl_LeftHandPinky4
+    400052: Ch_Froglegs_Ctrl_LeftHandPinkyEffector
+    400054: Ch_Froglegs_Ctrl_LeftHandThumb1
+    400056: Ch_Froglegs_Ctrl_LeftHandThumb2
+    400058: Ch_Froglegs_Ctrl_LeftHandThumb3
+    400060: Ch_Froglegs_Ctrl_LeftHandThumb4
+    400062: Ch_Froglegs_Ctrl_LeftHandThumbEffector
+    400064: Ch_Froglegs_Ctrl_LeftHipEffector
+    400066: Ch_Froglegs_Ctrl_LeftKneeEffector
+    400068: Ch_Froglegs_Ctrl_LeftLeg
+    400070: Ch_Froglegs_Ctrl_LeftShoulder
+    400072: Ch_Froglegs_Ctrl_LeftShoulderEffector
+    400074: Ch_Froglegs_Ctrl_LeftToeBase
+    400076: Ch_Froglegs_Ctrl_LeftUpLeg
+    400078: Ch_Froglegs_Ctrl_LeftWristEffector
+    400080: Ch_Froglegs_Ctrl_Neck
+    400082: Ch_Froglegs_Ctrl_Reference
+    400084: Ch_Froglegs_Ctrl_RightAnkleEffector
+    400086: Ch_Froglegs_Ctrl_RightArm
+    400088: Ch_Froglegs_Ctrl_RightElbowEffector
+    400090: Ch_Froglegs_Ctrl_RightFoot
+    400092: Ch_Froglegs_Ctrl_RightFootEffector
+    400094: Ch_Froglegs_Ctrl_RightFootMiddle1
+    400096: Ch_Froglegs_Ctrl_RightFootMiddle2
+    400098: Ch_Froglegs_Ctrl_RightFootMiddle3
+    400100: Ch_Froglegs_Ctrl_RightFootMiddleEffector
+    400102: Ch_Froglegs_Ctrl_RightForeArm
+    400104: Ch_Froglegs_Ctrl_RightHand
+    400106: Ch_Froglegs_Ctrl_RightHandIndex1
+    400108: Ch_Froglegs_Ctrl_RightHandIndex2
+    400110: Ch_Froglegs_Ctrl_RightHandIndex3
+    400112: Ch_Froglegs_Ctrl_RightHandIndex4
+    400114: Ch_Froglegs_Ctrl_RightHandIndexEffector
+    400116: Ch_Froglegs_Ctrl_RightHandPinky1
+    400118: Ch_Froglegs_Ctrl_RightHandPinky2
+    400120: Ch_Froglegs_Ctrl_RightHandPinky3
+    400122: Ch_Froglegs_Ctrl_RightHandPinky4
+    400124: Ch_Froglegs_Ctrl_RightHandPinkyEffector
+    400126: Ch_Froglegs_Ctrl_RightHandThumb1
+    400128: Ch_Froglegs_Ctrl_RightHandThumb2
+    400130: Ch_Froglegs_Ctrl_RightHandThumb3
+    400132: Ch_Froglegs_Ctrl_RightHandThumb4
+    400134: Ch_Froglegs_Ctrl_RightHandThumbEffector
+    400136: Ch_Froglegs_Ctrl_RightHipEffector
+    400138: Ch_Froglegs_Ctrl_RightKneeEffector
+    400140: Ch_Froglegs_Ctrl_RightLeg
+    400142: Ch_Froglegs_Ctrl_RightShoulder
+    400144: Ch_Froglegs_Ctrl_RightShoulderEffector
+    400146: Ch_Froglegs_Ctrl_RightToeBase
+    400148: Ch_Froglegs_Ctrl_RightUpLeg
+    400150: Ch_Froglegs_Ctrl_RightWristEffector
+    400152: Ch_Froglegs_Ctrl_Spine
+    400154: Ch_Froglegs_Ctrl_Spine1
+    400156: Ch_Froglegs_Ctrl_Spine2
+    400158: Ch_Froglegs_Head
+    400160: Ch_Froglegs_Hips
+    400162: Ch_Froglegs_LeftArm
+    400164: Ch_Froglegs_LeftFoot
+    400166: Ch_Froglegs_LeftFootMiddle1
+    400168: Ch_Froglegs_LeftFootMiddle2
+    400170: Ch_Froglegs_LeftFootMiddle3
+    400172: Ch_Froglegs_LeftForeArm
+    400174: Ch_Froglegs_LeftHand
+    400176: Ch_Froglegs_LeftHandIndex1
+    400178: Ch_Froglegs_LeftHandIndex2
+    400180: Ch_Froglegs_LeftHandIndex3
+    400182: Ch_Froglegs_LeftHandIndex4
+    400184: Ch_Froglegs_LeftHandPinky1
+    400186: Ch_Froglegs_LeftHandPinky2
+    400188: Ch_Froglegs_LeftHandPinky3
+    400190: Ch_Froglegs_LeftHandPinky4
+    400192: Ch_Froglegs_LeftHandThumb1
+    400194: Ch_Froglegs_LeftHandThumb2
+    400196: Ch_Froglegs_LeftHandThumb3
+    400198: Ch_Froglegs_LeftHandThumb4
+    400200: Ch_Froglegs_LeftLeg
+    400202: Ch_Froglegs_LeftShoulder
+    400204: Ch_Froglegs_LeftToeBase
+    400206: Ch_Froglegs_LeftUpLeg
+    400208: Ch_Froglegs_Neck
+    400210: Ch_Froglegs_Reference
+    400212: Ch_Froglegs_RightArm
+    400214: Ch_Froglegs_RightFoot
+    400216: Ch_Froglegs_RightFootMiddle1
+    400218: Ch_Froglegs_RightFootMiddle2
+    400220: Ch_Froglegs_RightFootMiddle3
+    400222: Ch_Froglegs_RightForeArm
+    400224: Ch_Froglegs_RightHand
+    400226: Ch_Froglegs_RightHandIndex1
+    400228: Ch_Froglegs_RightHandIndex2
+    400230: Ch_Froglegs_RightHandIndex3
+    400232: Ch_Froglegs_RightHandIndex4
+    400234: Ch_Froglegs_RightHandPinky1
+    400236: Ch_Froglegs_RightHandPinky2
+    400238: Ch_Froglegs_RightHandPinky3
+    400240: Ch_Froglegs_RightHandPinky4
+    400242: Ch_Froglegs_RightHandThumb1
+    400244: Ch_Froglegs_RightHandThumb2
+    400246: Ch_Froglegs_RightHandThumb3
+    400248: Ch_Froglegs_RightHandThumb4
+    400250: Ch_Froglegs_RightLeg
+    400252: Ch_Froglegs_RightShoulder
+    400254: Ch_Froglegs_RightToeBase
+    400256: Ch_Froglegs_RightUpLeg
+    400258: Ch_Froglegs_Spine
+    400260: Ch_Froglegs_Spine1
+    400262: Ch_Froglegs_Spine2
+    400264: //RootNode
+    400266: Line001
+    400268: Object011
+    400270: Object012
+    400272: transform1
+    400274: transform2
+    4300000: Object012
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object012
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 45
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_ChestEndEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_ChestOriginEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_HeadEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_LeftUpLeg
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_LeftUpLeg/Ch_Froglegs_Ctrl_LeftLeg
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_LeftUpLeg/Ch_Froglegs_Ctrl_LeftLeg/Ch_Froglegs_Ctrl_LeftFoot
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_LeftUpLeg/Ch_Froglegs_Ctrl_LeftLeg/Ch_Froglegs_Ctrl_LeftFoot/Ch_Froglegs_Ctrl_LeftToeBase
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_LeftUpLeg/Ch_Froglegs_Ctrl_LeftLeg/Ch_Froglegs_Ctrl_LeftFoot/Ch_Froglegs_Ctrl_LeftToeBase/Ch_Froglegs_Ctrl_LeftFootMiddle1
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_LeftUpLeg/Ch_Froglegs_Ctrl_LeftLeg/Ch_Froglegs_Ctrl_LeftFoot/Ch_Froglegs_Ctrl_LeftToeBase/Ch_Froglegs_Ctrl_LeftFootMiddle1/Ch_Froglegs_Ctrl_LeftFootMiddle2
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_LeftUpLeg/Ch_Froglegs_Ctrl_LeftLeg/Ch_Froglegs_Ctrl_LeftFoot/Ch_Froglegs_Ctrl_LeftToeBase/Ch_Froglegs_Ctrl_LeftFootMiddle1/Ch_Froglegs_Ctrl_LeftFootMiddle2/Ch_Froglegs_Ctrl_LeftFootMiddle3
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_RightUpLeg
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_RightUpLeg/Ch_Froglegs_Ctrl_RightLeg
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_RightUpLeg/Ch_Froglegs_Ctrl_RightLeg/Ch_Froglegs_Ctrl_RightFoot
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_RightUpLeg/Ch_Froglegs_Ctrl_RightLeg/Ch_Froglegs_Ctrl_RightFoot/Ch_Froglegs_Ctrl_RightToeBase
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_RightUpLeg/Ch_Froglegs_Ctrl_RightLeg/Ch_Froglegs_Ctrl_RightFoot/Ch_Froglegs_Ctrl_RightToeBase/Ch_Froglegs_Ctrl_RightFootMiddle1
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_RightUpLeg/Ch_Froglegs_Ctrl_RightLeg/Ch_Froglegs_Ctrl_RightFoot/Ch_Froglegs_Ctrl_RightToeBase/Ch_Froglegs_Ctrl_RightFootMiddle1/Ch_Froglegs_Ctrl_RightFootMiddle2
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_RightUpLeg/Ch_Froglegs_Ctrl_RightLeg/Ch_Froglegs_Ctrl_RightFoot/Ch_Froglegs_Ctrl_RightToeBase/Ch_Froglegs_Ctrl_RightFootMiddle1/Ch_Froglegs_Ctrl_RightFootMiddle2/Ch_Froglegs_Ctrl_RightFootMiddle3
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandIndex1
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandIndex1/Ch_Froglegs_Ctrl_LeftHandIndex2
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandIndex1/Ch_Froglegs_Ctrl_LeftHandIndex2/Ch_Froglegs_Ctrl_LeftHandIndex3
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandIndex1/Ch_Froglegs_Ctrl_LeftHandIndex2/Ch_Froglegs_Ctrl_LeftHandIndex3/Ch_Froglegs_Ctrl_LeftHandIndex4
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandPinky1
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandPinky1/Ch_Froglegs_Ctrl_LeftHandPinky2
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandPinky1/Ch_Froglegs_Ctrl_LeftHandPinky2/Ch_Froglegs_Ctrl_LeftHandPinky3
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandPinky1/Ch_Froglegs_Ctrl_LeftHandPinky2/Ch_Froglegs_Ctrl_LeftHandPinky3/Ch_Froglegs_Ctrl_LeftHandPinky4
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandThumb1
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandThumb1/Ch_Froglegs_Ctrl_LeftHandThumb2
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandThumb1/Ch_Froglegs_Ctrl_LeftHandThumb2/Ch_Froglegs_Ctrl_LeftHandThumb3
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_LeftShoulder/Ch_Froglegs_Ctrl_LeftArm/Ch_Froglegs_Ctrl_LeftForeArm/Ch_Froglegs_Ctrl_LeftHand/Ch_Froglegs_Ctrl_LeftHandThumb1/Ch_Froglegs_Ctrl_LeftHandThumb2/Ch_Froglegs_Ctrl_LeftHandThumb3/Ch_Froglegs_Ctrl_LeftHandThumb4
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_Neck
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_Neck/Ch_Froglegs_Ctrl_Head
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandIndex1
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandIndex1/Ch_Froglegs_Ctrl_RightHandIndex2
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandIndex1/Ch_Froglegs_Ctrl_RightHandIndex2/Ch_Froglegs_Ctrl_RightHandIndex3
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandIndex1/Ch_Froglegs_Ctrl_RightHandIndex2/Ch_Froglegs_Ctrl_RightHandIndex3/Ch_Froglegs_Ctrl_RightHandIndex4
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandPinky1
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandPinky1/Ch_Froglegs_Ctrl_RightHandPinky2
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandPinky1/Ch_Froglegs_Ctrl_RightHandPinky2/Ch_Froglegs_Ctrl_RightHandPinky3
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandPinky1/Ch_Froglegs_Ctrl_RightHandPinky2/Ch_Froglegs_Ctrl_RightHandPinky3/Ch_Froglegs_Ctrl_RightHandPinky4
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandThumb1
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandThumb1/Ch_Froglegs_Ctrl_RightHandThumb2
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandThumb1/Ch_Froglegs_Ctrl_RightHandThumb2/Ch_Froglegs_Ctrl_RightHandThumb3
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_Hips/Ch_Froglegs_Ctrl_Spine/Ch_Froglegs_Ctrl_Spine1/Ch_Froglegs_Ctrl_Spine2/Ch_Froglegs_Ctrl_RightShoulder/Ch_Froglegs_Ctrl_RightArm/Ch_Froglegs_Ctrl_RightForeArm/Ch_Froglegs_Ctrl_RightHand/Ch_Froglegs_Ctrl_RightHandThumb1/Ch_Froglegs_Ctrl_RightHandThumb2/Ch_Froglegs_Ctrl_RightHandThumb3/Ch_Froglegs_Ctrl_RightHandThumb4
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_HipsEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_LeftAnkleEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_LeftElbowEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_LeftFootEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_LeftFootMiddleEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_LeftHandIndexEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_LeftHandPinkyEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_LeftHandThumbEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_LeftHipEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_LeftKneeEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_LeftShoulderEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_LeftWristEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_RightAnkleEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_RightElbowEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_RightFootEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_RightFootMiddleEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_RightHandIndexEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_RightHandPinkyEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_RightHandThumbEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_RightHipEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_RightKneeEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_RightShoulderEffector
+        weight: 1
+      - path: Ch_Froglegs_Ctrl_Reference/Ch_Froglegs_Ctrl_RightWristEffector
+        weight: 1
+      - path: Ch_Froglegs_Reference
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_LeftUpLeg
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_LeftUpLeg/Ch_Froglegs_LeftLeg
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_LeftUpLeg/Ch_Froglegs_LeftLeg/Ch_Froglegs_LeftFoot
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_LeftUpLeg/Ch_Froglegs_LeftLeg/Ch_Froglegs_LeftFoot/Ch_Froglegs_LeftToeBase
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_LeftUpLeg/Ch_Froglegs_LeftLeg/Ch_Froglegs_LeftFoot/Ch_Froglegs_LeftToeBase/Ch_Froglegs_LeftFootMiddle1
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_LeftUpLeg/Ch_Froglegs_LeftLeg/Ch_Froglegs_LeftFoot/Ch_Froglegs_LeftToeBase/Ch_Froglegs_LeftFootMiddle1/Ch_Froglegs_LeftFootMiddle2
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_LeftUpLeg/Ch_Froglegs_LeftLeg/Ch_Froglegs_LeftFoot/Ch_Froglegs_LeftToeBase/Ch_Froglegs_LeftFootMiddle1/Ch_Froglegs_LeftFootMiddle2/Ch_Froglegs_LeftFootMiddle3
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_RightUpLeg
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_RightUpLeg/Ch_Froglegs_RightLeg
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_RightUpLeg/Ch_Froglegs_RightLeg/Ch_Froglegs_RightFoot
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_RightUpLeg/Ch_Froglegs_RightLeg/Ch_Froglegs_RightFoot/Ch_Froglegs_RightToeBase
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_RightUpLeg/Ch_Froglegs_RightLeg/Ch_Froglegs_RightFoot/Ch_Froglegs_RightToeBase/Ch_Froglegs_RightFootMiddle1
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_RightUpLeg/Ch_Froglegs_RightLeg/Ch_Froglegs_RightFoot/Ch_Froglegs_RightToeBase/Ch_Froglegs_RightFootMiddle1/Ch_Froglegs_RightFootMiddle2
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_RightUpLeg/Ch_Froglegs_RightLeg/Ch_Froglegs_RightFoot/Ch_Froglegs_RightToeBase/Ch_Froglegs_RightFootMiddle1/Ch_Froglegs_RightFootMiddle2/Ch_Froglegs_RightFootMiddle3
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandIndex1
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandIndex1/Ch_Froglegs_LeftHandIndex2
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandIndex1/Ch_Froglegs_LeftHandIndex2/Ch_Froglegs_LeftHandIndex3
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandIndex1/Ch_Froglegs_LeftHandIndex2/Ch_Froglegs_LeftHandIndex3/Ch_Froglegs_LeftHandIndex4
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandPinky1
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandPinky1/Ch_Froglegs_LeftHandPinky2
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandPinky1/Ch_Froglegs_LeftHandPinky2/Ch_Froglegs_LeftHandPinky3
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandPinky1/Ch_Froglegs_LeftHandPinky2/Ch_Froglegs_LeftHandPinky3/Ch_Froglegs_LeftHandPinky4
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandThumb1
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandThumb1/Ch_Froglegs_LeftHandThumb2
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandThumb1/Ch_Froglegs_LeftHandThumb2/Ch_Froglegs_LeftHandThumb3
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_LeftShoulder/Ch_Froglegs_LeftArm/Ch_Froglegs_LeftForeArm/Ch_Froglegs_LeftHand/Ch_Froglegs_LeftHandThumb1/Ch_Froglegs_LeftHandThumb2/Ch_Froglegs_LeftHandThumb3/Ch_Froglegs_LeftHandThumb4
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_Neck
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_Neck/Ch_Froglegs_Head
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandIndex1
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandIndex1/Ch_Froglegs_RightHandIndex2
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandIndex1/Ch_Froglegs_RightHandIndex2/Ch_Froglegs_RightHandIndex3
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandIndex1/Ch_Froglegs_RightHandIndex2/Ch_Froglegs_RightHandIndex3/Ch_Froglegs_RightHandIndex4
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandPinky1
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandPinky1/Ch_Froglegs_RightHandPinky2
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandPinky1/Ch_Froglegs_RightHandPinky2/Ch_Froglegs_RightHandPinky3
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandPinky1/Ch_Froglegs_RightHandPinky2/Ch_Froglegs_RightHandPinky3/Ch_Froglegs_RightHandPinky4
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandThumb1
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandThumb1/Ch_Froglegs_RightHandThumb2
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandThumb1/Ch_Froglegs_RightHandThumb2/Ch_Froglegs_RightHandThumb3
+        weight: 1
+      - path: Ch_Froglegs_Reference/Ch_Froglegs_Hips/Ch_Froglegs_Spine/Ch_Froglegs_Spine1/Ch_Froglegs_Spine2/Ch_Froglegs_RightShoulder/Ch_Froglegs_RightArm/Ch_Froglegs_RightForeArm/Ch_Froglegs_RightHand/Ch_Froglegs_RightHandThumb1/Ch_Froglegs_RightHandThumb2/Ch_Froglegs_RightHandThumb3/Ch_Froglegs_RightHandThumb4
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: Line001/transform1
+        weight: 1
+      - path: Object011
+        weight: 1
+      - path: Object011/transform2
+        weight: 1
+      - path: Object012
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
